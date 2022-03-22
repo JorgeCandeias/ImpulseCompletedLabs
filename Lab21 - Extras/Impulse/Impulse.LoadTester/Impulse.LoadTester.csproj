@@ -9,10 +9,10 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Data.SqlClient" Version="4.1.0" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
     <PackageReference Include="Microsoft.Orleans.Client" Version="3.6.0" />
     <PackageReference Include="Microsoft.Orleans.Clustering.AdoNet" Version="3.6.0" />
-    <PackageReference Include="NBomber" Version="2.1.3" />
+    <PackageReference Include="NBomber" Version="2.1.5" />
   </ItemGroup>
 
   <ItemGroup>
